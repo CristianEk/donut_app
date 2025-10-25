@@ -12,6 +12,7 @@
 ### - Dart, Flutter
 
 ## Basic Structure📁:
+´´´
 lib/
 │
 ├── 📁 Icons/ # Route where TabBar icons are stored
@@ -23,7 +24,7 @@ lib/
 │
 ├── 📄 main.dart # Launches the app
 └── 📄 pubspec.yaml # Dependency configuration
-
+´´´
 ## Demo📺
 ![Demo](https://drive.google.com/file/d/1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097/view?usp=sharing)
 

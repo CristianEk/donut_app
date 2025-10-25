@@ -1,15 +1,15 @@
 # 🍩**DONUT APP**🍩
-### U are hungry?, don´t know where order a snack?
-### This App is the solution, you can move on differents categories sections
-### and order in real time or add to cart
-### You can add to favorites a snacks lot 
-### also see prices and names of this delicius food
+U are hungry?, don´t know where order a snack?
+This App is the solution, you can move on differents categories sections
+and order in real time or add to cart
+You can add to favorites a snacks lot 
+also see prices and names of this delicius food
 
 ## Some widgets in use🎇:
-### -AppBar, TabBar, Text, GridDelegate, ItemCount
+-AppBar, TabBar, Text, GridDelegate, ItemCount
 
 ## Usage Tecnologies🛠️🪛:
-### - Dart, Flutter
+- Dart, Flutter
 
 ## Basic Structure📁:
 ```
@@ -26,7 +26,7 @@ lib/
 └── 📄 pubspec.yaml # Dependency configuration
 ```
 ## Demo📺
-![Demo](https://drive.google.com/file/d/1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097/view?usp=sharing)
+![Demo](https://drive.google.com/file/d/1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097/view?usp=drive_link)
 
 ### Develop for Desarrollo de Aplicaciones Móviles
 ### Teacher Rodrigo Fidel Gaxiola

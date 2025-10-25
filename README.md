@@ -26,7 +26,8 @@ lib/
 └── 📄 pubspec.yaml # Dependency configuration
 ```
 ## Demo📺
-![Demo](https://drive.google.com/file/d/1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097/view?usp=drive_link)
+![Demo](https://drive.google.com/uc?export=view&id=1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097)
+
 
 ### Develop for Desarrollo de Aplicaciones Móviles
 ### Teacher Rodrigo Fidel Gaxiola

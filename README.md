@@ -13,14 +13,16 @@
 
 ## Basic Structure📁:
 lib/
- |-- 📁Icons (Route where save Icons from TapBar) 
- |-- 📁Images (Route where save Images from the products in the App)
- |-- 📁Screens
-       |-- 📄HomePage.dart (Main menu from App)
- |-- 📁Tab (Route where save all sections from food)
- |-- 📁Utils (Route where save files to cofig prices, images and more to the food)
- |-- 📄main.dart (Launch the App)
- |-- 📄pubspec.yaml (Import dependences)
+│
+├── 📁 Icons/ # Route where TabBar icons are stored
+├── 📁 Images/ # Route where product images are stored
+├── 📁 Screens/
+│ └── 📄 HomePage.dart # Main menu of the app
+├── 📁 Tab/ # Folder with all food category sections
+├── 📁 Utils/ # Files to configure prices, images, and food data
+│
+├── 📄 main.dart # Launches the app
+└── 📄 pubspec.yaml # Dependency configuration
 
 ## Demo📺
 ![Demo](https://drive.google.com/file/d/1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097/view?usp=sharing)

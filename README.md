@@ -1,16 +1,39 @@
-# donut_app
+# 🍩**DONUT APP**🍩
+U are hungry?, don´t know where order a snack?
+This App is the solution, you can move on differents categories sections
+and order in real time or add to cart
+You can add to favorites a snacks lot 
+also see prices and names of this delicius food
 
-A new Flutter project.
+## Some widgets in use🎇:
+-AppBar, TabBar, Text, GridDelegate, ItemCount
 
-## Getting Started
+## Usage Tecnologies🛠️🪛:
+- Dart, Flutter
 
-This project is a starting point for a Flutter application.
+## Basic Structure📁:
+```
+lib/
+│
+├── 📁 Icons/ # Route where TabBar icons are stored
+├── 📁 Images/ # Route where product images are stored
+├── 📁 Screens/
+│ └── 📄 HomePage.dart # Main menu of the app
+├── 📁 Tab/ # Folder with all food category sections
+├── 📁 Utils/ # Files to configure prices, images, and food data
+│
+├── 📄 main.dart # Launches the app
+└── 📄 pubspec.yaml # Dependency configuration
+```
+## Demo📺
+![Demo](https://drive.google.com/uc?export=view&id=1__kO5fVcgrkwOyQfamZ-J-1W-fXwW097)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Develop for Desarrollo de Aplicaciones Móviles
+### Teacher Rodrigo Fidel Gaxiola
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Developed by hello@dstudio.agency
+Design concept inspired by Dribbble — implemented with Flutter for learning and UI showcase purposes.
+
+
+

@@ -17,12 +17,12 @@ class DonutTab extends StatelessWidget {
     return GridView.builder(
       ///Se encarga de acomodar elementos dentro del grid
       gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(crossAxisCount: 2,
-      childAspectRatio: 1 / 1.4, //relacion de aspecto ancho/alto 
+      childAspectRatio: 1 / 1.45, //relacion de aspecto ancho/alto  //aqui se puede alargar la barra/contenedor del fondo
       ), //crossAxisCount numeros de columnas
 
       //lo que se construye en el grid (contenido)
       itemCount: donutOnSale.length, //cuantos elementos tendra
-      itemBuilder: (context, index){
+      itemBuilder: (context, index){ //construye cada elemento
         return DonutTile( //le pasamos los elementos de la lista a la clase DonutTile
           donutFlavor: donutOnSale[index][0],
           donutPrice: donutOnSale[index][1],

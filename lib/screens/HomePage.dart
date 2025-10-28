@@ -76,7 +76,35 @@ class _MyWidgetState extends State<Homepage> {
                 PizzaTab(),
               ],),
             ),
+
             //Carito
+             Container(
+              color: Colors.white,
+              padding: EdgeInsets.all(16),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween, // Espacio entre los elementos
+                children: [
+                 Padding(padding: EdgeInsets.only(left:28),
+                 child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start, // Alinea el texto a la izquierda
+                  children: [
+                   Text('2 Items | \$45', style: TextStyle(fontSize: 18, fontWeight: FontWeight.bold)),
+                   Text('Delivery Charge Included') //creamos el texto de la izquierda
+                  ], 
+                 ),
+                 ),
+                 //boton
+                 ElevatedButton (
+                  style: ElevatedButton.styleFrom(
+                    backgroundColor: Colors.pink, // Color de fondo rosa
+                    padding: EdgeInsets.symmetric(horizontal: 24, vertical: 12), // Espaciado interno
+                  ),
+                  onPressed: (){}, 
+                  child: const Text('View Cart', style: TextStyle(color: Colors.white, 
+                  fontWeight: FontWeight.bold),),)
+              ], 
+              ),
+             )
           ],
         ),
       ),
